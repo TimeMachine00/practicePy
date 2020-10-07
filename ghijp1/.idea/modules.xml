@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Djangopro/.idea/Djangopro.iml" filepath="$PROJECT_DIR$/../Djangopro/.idea/Djangopro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Flask Series/.idea/Flask Series.iml" filepath="$PROJECT_DIR$/../Flask Series/.idea/Flask Series.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../caculator/.idea/caculator.iml" filepath="$PROJECT_DIR$/../caculator/.idea/caculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../compress-image-master/.idea/compress-image-master.iml" filepath="$PROJECT_DIR$/../compress-image-master/.idea/compress-image-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demobygit/.idea/demobygit.iml" filepath="$PROJECT_DIR$/../demobygit/.idea/demobygit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ghijp1.iml" filepath="$PROJECT_DIR$/.idea/ghijp1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ghijp2/.idea/ghijp2.iml" filepath="$PROJECT_DIR$/../ghijp2/.idea/ghijp2.iml" />
+    </modules>
+  </component>
+</project>
